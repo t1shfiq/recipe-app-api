@@ -13,6 +13,6 @@ Features:
 - Browsable API(Swagger)
 
 
-[Swagger Deployment] {http://ec2-3-95-185-67.compute-1.amazonaws.com/api/docs/}
+[Swagger Deployment](http://ec2-3-95-185-67.compute-1.amazonaws.com/api/docs/)
 
-[Django admin ui] {http://ec2-3-95-185-67.compute-1.amazonaws.com/admin/login/?next=/admin/}
+[Django admin ui](http://ec2-3-95-185-67.compute-1.amazonaws.com/admin/login/?next=/admin/)
