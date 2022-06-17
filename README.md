@@ -1,7 +1,7 @@
 # recipe-app-api
 Recipe API Project.
 
-In the process of building a backend component and database of a recipe app via Test Driven Development (TDD).
+A backend component with a database of a recipe app developer via Test Driven Development (TDD).
 
 Technologies used: Python, Django, Django REST Framework, PostgreSQL, Docker, Swagger, Github Actions
 
